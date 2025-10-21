@@ -26,10 +26,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+<img width="410" height="250" alt="image" src="https://github.com/user-attachments/assets/7a3f6767-840b-4219-8ebd-9a74843c397a" />
+</p>
+<p>
+Connect to your virtual machine using Remote Desktop Connection using the public IP address.
+</p>
+<br />
+
+<p>
 <img width="553" height="650" alt="image" src="https://github.com/user-attachments/assets/a1123583-4481-44be-a13b-ba7e444d89ce" />
 </p>
 <p>
-Create a ticket by accessing this link http://localhost/osTicket, click open a new ticket, fill in the information and click create ticket.
+Create a ticket by accessing the End User's osTicket portal, click open a new ticket, fill in the information, and click Create ticket.
 </p>
 <br />
 
@@ -37,7 +45,15 @@ Create a ticket by accessing this link http://localhost/osTicket, click open a n
 <img width="639" height="222" alt="image" src="https://github.com/user-attachments/assets/e002c968-4dd4-4722-92a4-9a8fe93f9867" />
 </p>
 <p>
-Access the End User osTicket platform using this link: http://localhost/osTicket/scp/login.php. Log in and click on the ticket that you created.
+Access the agent osTicket portal, log in, and click on the ticket that you created.
+</p>
+<br />
+
+<p>
+<img width="851" height="605" alt="image" src="https://github.com/user-attachments/assets/2ee74116-ffb8-45e0-8581-caf76bd7ec03" />
+</p>
+<p>
+As a Help Desk Agent (John), observe the ticket’s properties: priority, department,	SLA, assigned to
 </p>
 <br />
 
