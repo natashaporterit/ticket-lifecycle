@@ -24,6 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+<h2> 1. Creation and Intake Process</h2>
 
 <p>
 <img width="410" height="250" alt="image" src="https://github.com/user-attachments/assets/7a3f6767-840b-4219-8ebd-9a74843c397a" />
@@ -34,10 +35,26 @@ Connect to your virtual machine using Remote Desktop Connection using the public
 <br />
 
 <p>
+<img width="926" height="537" alt="image" src="https://github.com/user-attachments/assets/e33d7b06-f88d-418b-b281-e8521789a87d" />
+</p>
+<p>
+Create a ticket by accessing the osTicket portal, click Open a New Ticket.
+</p>
+<br />
+
+<p>
 <img width="553" height="650" alt="image" src="https://github.com/user-attachments/assets/a1123583-4481-44be-a13b-ba7e444d89ce" />
 </p>
 <p>
-Create a ticket by accessing the End User's osTicket portal, click open a new ticket, fill in the information, and click Create ticket.
+Fill in the information, and click Create ticket.
+</p>
+<br />
+
+<p>
+<img width="451" height="336" alt="image" src="https://github.com/user-attachments/assets/d84d7b73-5397-4bd7-afe2-cca67a0406a5" />
+</p>
+<p>
+Access the agent osTicket portal and log in.
 </p>
 <br />
 
@@ -45,7 +62,7 @@ Create a ticket by accessing the End User's osTicket portal, click open a new ti
 <img width="639" height="222" alt="image" src="https://github.com/user-attachments/assets/e002c968-4dd4-4722-92a4-9a8fe93f9867" />
 </p>
 <p>
-Access the agent osTicket portal, log in, and click on the ticket that you created.
+Click on the ticket that you created.
 </p>
 <br />
 
@@ -56,6 +73,8 @@ Access the agent osTicket portal, log in, and click on the ticket that you creat
 As an admin, observe the ticket’s properties: Priority, Department,	SLA, and Assigned To sections
 </p>
 <br />
+
+<h2> 2. Working the ticket</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
