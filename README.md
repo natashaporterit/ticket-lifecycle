@@ -50,10 +50,10 @@ Access the agent osTicket portal, log in, and click on the ticket that you creat
 <br />
 
 <p>
-<img width="851" height="605" alt="image" src="https://github.com/user-attachments/assets/2ee74116-ffb8-45e0-8581-caf76bd7ec03" />
+<img width="636" height="857" alt="image" src="https://github.com/user-attachments/assets/4d6e7a8a-3c6e-4e82-9950-f6c7114874b3" />
 </p>
 <p>
-As a Help Desk Agent (John), observe the ticket’s properties: priority, department,	SLA, assigned to
+As an admin, observe the ticket’s properties: Priority, Department,	SLA, and Assigned To sections
 </p>
 <br />
 
