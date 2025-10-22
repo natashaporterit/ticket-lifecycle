@@ -77,18 +77,18 @@ As an admin, observe the ticket’s properties: Priority, Department,	SLA, and A
 <h2> 2. Working the ticket</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1040" height="1890" alt="image" src="https://github.com/user-attachments/assets/f4480638-c0ad-443f-9d87-02ac65fdc83c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log in as Jane, another agent, to "work the ticket" to completion. You can assign the ticket to yourself. (Jane Doe) Then adjust the settings as needed after resolving the issue, and mark the status as resolved.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1053" height="392" alt="image" src="https://github.com/user-attachments/assets/2a013a30-2202-4a15-9be1-9820c1300853" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You should no longer have a ticket in your que.
 </p>
 <br />
 
