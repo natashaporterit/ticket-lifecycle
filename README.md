@@ -38,7 +38,7 @@ Connect to your virtual machine using Remote Desktop Connection using the public
 <img width="926" height="537" alt="image" src="https://github.com/user-attachments/assets/e33d7b06-f88d-418b-b281-e8521789a87d" />
 </p>
 <p>
-Create a ticket by accessing the osTicket portal, click Open a New Ticket.
+Create a ticket by accessing the osTicket portal, and click Open a New Ticket.
 </p>
 <br />
 
@@ -46,7 +46,7 @@ Create a ticket by accessing the osTicket portal, click Open a New Ticket.
 <img width="553" height="650" alt="image" src="https://github.com/user-attachments/assets/a1123583-4481-44be-a13b-ba7e444d89ce" />
 </p>
 <p>
-Fill in the information, and click Create ticket.
+Fill in the information as Karen, and click Create ticket.
 </p>
 <br />
 
@@ -54,7 +54,7 @@ Fill in the information, and click Create ticket.
 <img width="451" height="336" alt="image" src="https://github.com/user-attachments/assets/d84d7b73-5397-4bd7-afe2-cca67a0406a5" />
 </p>
 <p>
-Access the agent osTicket portal and log in.
+Access the agent osTicket portal as the agent Jane and log in.
 </p>
 <br />
 
@@ -62,7 +62,7 @@ Access the agent osTicket portal and log in.
 <img width="639" height="222" alt="image" src="https://github.com/user-attachments/assets/e002c968-4dd4-4722-92a4-9a8fe93f9867" />
 </p>
 <p>
-Click on the ticket that you created.
+Click on the ticket that Karen created.
 </p>
 <br />
 
@@ -70,7 +70,7 @@ Click on the ticket that you created.
 <img width="636" height="857" alt="image" src="https://github.com/user-attachments/assets/4d6e7a8a-3c6e-4e82-9950-f6c7114874b3" />
 </p>
 <p>
-As an admin, observe the ticket’s properties: Priority, Department,	SLA, and Assigned To sections
+As an admin, observe the ticket’s properties: Priority, Department,	SLA, and Assigned To sections, and adjust according to the situation. 
 </p>
 <br />
 
@@ -88,7 +88,7 @@ Log in as Jane, another agent, to "work the ticket" to completion. You can assig
 <img width="1053" height="392" alt="image" src="https://github.com/user-attachments/assets/2a013a30-2202-4a15-9be1-9820c1300853" />
 </p>
 <p>
-You should no longer have a ticket in your que.
+You should no longer have a ticket in your queue.
 </p>
 <br />
 
